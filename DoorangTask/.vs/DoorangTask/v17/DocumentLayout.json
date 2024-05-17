@@ -7,32 +7,52 @@
       "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|solutionrelative:doorang.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Data\\Migrations\\20240516182237_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Doorang.Data\\Migrations\\20240516182237_AddUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|solutionrelative:doorang.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|solutionrelative:doorang.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|solutionrelative:doorang.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorangtask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{753DC4D3-56AC-4483-A75A-85F6CD42C7C8}|DoorangTask\\DoorangTask.csproj|solutionrelative:doorangtask\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61C890A5-8CB1-4122-846D-833731923249}|Doorang.Data\\Doorang.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C890A5-8CB1-4122-846D-833731923249}|Doorang.Data\\Doorang.Data.csproj|solutionrelative:doorang.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BB9359-D317-44F9-930C-F00BDDE8643E}|Doorang.Core\\Doorang.Core.csproj|solutionrelative:doorang.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C890A5-8CB1-4122-846D-833731923249}|Doorang.Data\\Doorang.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doorang\\doorangtask\\doorang.data\\migrations\\20240516182237_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C890A5-8CB1-4122-846D-833731923249}|Doorang.Data\\Doorang.Data.csproj|solutionrelative:doorang.data\\migrations\\20240516182237_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,30 +62,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Helpers\\Account\\UserRole.cs",
+              "RelativeDocumentMoniker": "DoorangTask\\Helpers\\Account\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Helpers\\Account\\UserRole.cs",
+              "RelativeToolTip": "DoorangTask\\Helpers\\Account\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:25:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DoorangTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DoorangTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:45:04.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoorangTask\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoorangTask\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:38:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Doorang.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeToolTip": "Doorang.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:36:12.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoorangTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoorangTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:20:01.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Core\\DTOs\\AccountDto\\RegisterDto.cs",
               "RelativeDocumentMoniker": "Doorang.Core\\DTOs\\AccountDto\\RegisterDto.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Core\\DTOs\\AccountDto\\RegisterDto.cs",
               "RelativeToolTip": "Doorang.Core\\DTOs\\AccountDto\\RegisterDto.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACEAAAAzAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T19:16:40.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "DoorangTask\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "DoorangTask\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAuwEkAAAAqAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-16T18:27:41.285Z",
               "EditorCaption": ""
@@ -78,14 +163,14 @@
               "RelativeDocumentMoniker": "DoorangTask\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Controllers\\AccountController.cs",
               "RelativeToolTip": "DoorangTask\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswDYAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:27:21.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "20240516182237_AddUserTable.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Data\\Migrations\\20240516182237_AddUserTable.cs",
               "RelativeDocumentMoniker": "Doorang.Data\\Migrations\\20240516182237_AddUserTable.cs",
@@ -93,25 +178,24 @@
               "RelativeToolTip": "Doorang.Data\\Migrations\\20240516182237_AddUserTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T18:22:37.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T18:22:37.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Program.cs",
               "RelativeDocumentMoniker": "DoorangTask\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Program.cs",
               "RelativeToolTip": "DoorangTask\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACYAAAAXAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:14:59.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Data\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Doorang.Data\\DAL\\AppDbContext.cs",
@@ -124,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\Doorang.Core\\Models\\User.cs",
               "RelativeDocumentMoniker": "Doorang.Core\\Models\\User.cs",
@@ -143,7 +227,7 @@
               "RelativeDocumentMoniker": "DoorangTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doorang\\DoorangTask\\DoorangTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DoorangTask\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T14:25:49.868Z",
               "EditorCaption": ""

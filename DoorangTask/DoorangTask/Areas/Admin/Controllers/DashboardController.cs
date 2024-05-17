@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DoorangTask.Helpers.Account;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DoorangTask.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize( Roles="Admin")]
     public class DashboardController : Controller
     {
         public IActionResult Index()

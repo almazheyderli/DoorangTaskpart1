@@ -22,6 +22,17 @@
             <li class="nav-item"><a href="#" class="nav-link">Explore</a></li>
             <li class="nav-item"><a href="#" class="nav-link"><img src="~/assets/imgs/placeholder.svg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, weber Landing page"></a></li>
             <li class="nav-item"><a href="#" class="nav-link">Journal</a></li>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item"><a class="nav-link">@User.Identity.Name</a></li>
+                <li class="nav-item"><a asp-controller="Account" asp-action="LogOut" class="nav-link">Logout</a></li>
+            }
+            else
+            {
+                <li class="nav-item"><a asp-action="Register" asp-controller="Account" class="nav-link">Register</a></li>
+                <li class="nav-item"><a asp-action="Login" asp-controller="Account" class="nav-link">Login</a></li>
+            }
             <li class="nav-item search">
                 <a href="javascript:void(0)" class="nav-link search-toggle"><i class="ti-search"></i> Search</a>
                 <div class="search-wrapper">
